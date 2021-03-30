@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64074917039",
+    "firebase_url": "https://secret-node-304912-default-rtdb.firebaseio.com",
+    "project_id": "secret-node-304912",
+    "storage_bucket": "secret-node-304912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64074917039:android:d890c8202a4e1b6459e05a",
+        "android_client_info": {
+          "package_name": "com.erwin_pandawa_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64074917039-48pobnvsa7a4t30fqm44i38lsbg6rbco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaPkXugpBOU4hDBtvSQQoq6kdC1IsfF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64074917039-48pobnvsa7a4t30fqm44i38lsbg6rbco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
